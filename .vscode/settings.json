@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.referencedLibraries": [
+        "meuprojeto/libs/sqlite-jdbc-3.46.1.0.jar"
+    ]
+}
